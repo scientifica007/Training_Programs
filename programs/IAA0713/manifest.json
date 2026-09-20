@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "program_code": "IAA0713",
+  "generated_at": "2026-09-20",
+  "conversion_policy": {
+    "markdown": "Faithful consultation format; PDF page boundaries retained; tables preserved using monospaced layout where direct semantic reconstruction could alter source meaning.",
+    "json": "Full page text plus source provenance and checksums.",
+    "normalized_json": "Cross-document structured record; every normalization that resolves an inconsistency is documented in observed_anomalies.",
+    "silent_corrections": false
+  },
+  "documents": [
+    {
+      "key": "FICHEPAR",
+      "document_type": "fiche_descriptive",
+      "source_pdf": "IAA0713FICHEPAR.pdf",
+      "source_url": "https://drive.google.com/file/d/1wna0TdgPytS6i9i56_uSCAxXLMeO8yu6/view?usp=drivesdk",
+      "source_sha256": "677b6c45cc9673e3b5d43b6690e11be9ebe6438e53acf07b9f2b61dd8217e72e",
+      "markdown": "IAA0713-FICHEPAR.md",
+      "machine_json": "IAA0713-FICHEPAR.json",
+      "page_count": 1
+    },
+    {
+      "key": "RAP",
+      "document_type": "referentiel_activites_professionnelles",
+      "source_pdf": "IAA0713RAP.pdf",
+      "source_url": "https://drive.google.com/file/d/14CsnMepGug3vZYIRXApBKNxwjD14-7S7/view?usp=drivesdk",
+      "source_sha256": "0bccf4cdbd00f4db1a4cd489f2ca6b0184ad32328d97ba5adeaf741057f62d19",
+      "markdown": "IAA0713-RAP.md",
+      "machine_json": "IAA0713-RAP.json",
+      "page_count": 17
+    },
+    {
+      "key": "RC",
+      "document_type": "referentiel_certification",
+      "source_pdf": "IAA0713RC.pdf",
+      "source_url": "https://drive.google.com/file/d/1aCjerE3TlUQ5NPED1Hb5KEoyV7nepGU0/view?usp=drivesdk",
+      "source_sha256": "9112d7a7c7f4e4c1196a5af2fc108053a80704feaa8a238a2bd04f3d8e461727",
+      "markdown": "IAA0713-RC.md",
+      "machine_json": "IAA0713-RC.json",
+      "page_count": 22
+    },
+    {
+      "key": "PE",
+      "document_type": "programme_etudes",
+      "source_pdf": "IAA0713PE.pdf",
+      "source_url": "https://drive.google.com/file/d/1krj6ZeKsEB1jvW21izfmlMb2Ka2qU_Bl/view?usp=drivesdk",
+      "source_sha256": "106926fa480469a27ccb745d82c7b3bf86e30764801cb6b3342c5171eecb59aa",
+      "markdown": "IAA0713-PE.md",
+      "machine_json": "IAA0713-PE.json",
+      "page_count": 57
+    }
+  ],
+  "normalized_record": "IAA0713-program.normalized.json"
+}
