@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0.0",
+  "record_type": "training_program_normalized",
+  "normalization_policy": "Source transcription is immutable; normalized fields may resolve structure only when explicitly documented.",
+  "program": {
+    "program_code": "IAA0713",
+    "title_fr": "Contrôle de qualité dans les industries agro-alimentaire",
+    "title_ar": "مراقبة النوعية في الصناعات الغذائية",
+    "qualification_level": 5,
+    "diploma": "BTS",
+    "year": 2023,
+    "homologation_visa": "IAA09/07/23",
+    "issuer_fr": "Institut National de la Formation et de l’Enseignement Professionnels KACI TAHAR (INFEP)",
+    "ministry_fr": "Ministère de la Formation et de l’enseignement Professionnels",
+    "country": "Algérie",
+    "sector_branch_ar": "الشعبة المهنية للصناعات الغذائية الزراعية",
+    "duration_months": 30,
+    "total_training_hours": 3060,
+    "taught_module_hours": 2448,
+    "practical_stage_hours": 612,
+    "admission_ar": "السنة الثالثة ثانوي",
+    "admission_rap_fr": "3ème année secondaire sciences/mathématiques",
+    "preferred_training_modes_ar": ["نمط التمهين", "نمط التكوين الحضوري"]
+  },
+  "curriculum": {
+    "modules": [
+      {"code":"MQ1","category":"qualifying","title_fr":"Préparation de Matériel et de la Matière d’œuvre","hours":80},
+      {"code":"MQ2","category":"qualifying","title_fr":"Prélèvement Et échantillonnage","hours":80},
+      {"code":"MQ3","category":"qualifying","title_fr":"Evaluations Sensorielles dans les Industrie Agro-alimentaires","hours":120},
+      {"code":"MQ4","category":"qualifying","title_fr":"Techniques De Base Des Analyses Microbiologiques Des Produits Alimentaires","hours":123},
+      {"code":"MQ5","category":"qualifying","title_fr":"Techniques Des Analyses Physico-chimiques Des Produits Alimentaires","hours":123},
+      {"code":"MQ6","category":"qualifying","title_fr":"Méthodes De Dosage Des Constituants Biochimiques Des Aliments","hours":122},
+      {"code":"MQ7","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Laitier","hours":122},
+      {"code":"MQ8","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Céréales Et Des Sous-produits Des Céréales","hours":122},
+      {"code":"MQ9","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Boissons","hours":123},
+      {"code":"MQ10","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Conserves D’origine Végétale Et Animale","hours":123},
+      {"code":"MQ11","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Viande Et Produits Carné","hours":122},
+      {"code":"MQ12","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Corps Gras","hours":122},
+      {"code":"MQ13","category":"qualifying","title_fr":"Contrôle De Qualité Dans Les Industries Des Sucres","hours":122},
+      {"code":"MC1","category":"complementary","title_fr":"Normes et Outils de Contrôle de Qualité dans les industries agroalimentaires","hours":112},
+      {"code":"MC2","category":"complementary","title_fr":"Communication","hours":60},
+      {"code":"MC3","category":"complementary","title_fr":"Hygiène, santé et sécurité au milieu de travail","hours":80},
+      {"code":"MC4","category":"complementary","title_fr":"Informatique","hours":80},
+      {"code":"MC5","category":"complementary","title_fr":"Statistiques","hours":72},
+      {"code":"MC6","category":"complementary","title_fr":"Chimie","hours":90},
+      {"code":"MC7","category":"complementary","title_fr":"Physique","hours":90},
+      {"code":"MC8","category":"complementary","title_fr":"Microbiologie générale","hours":120},
+      {"code":"MC9","category":"complementary","title_fr":"Microbiologie alimentaire","hours":120},
+      {"code":"MC10","category":"complementary","title_fr":"Biochimie Alimentaire","hours":120}
+    ],
+    "module_hours_total": 2448,
+    "semesters": [
+      {"semester":1,"hours":612,"modules":["MC1","MC2","MC3","MC4","MQ1","MQ2","MQ3"]},
+      {"semester":2,"hours":612,"modules":["MC5","MC6","MC7","MC8","MC9","MC10"]},
+      {"semester":3,"hours":612,"modules":["MQ4","MQ5","MQ6","MQ7","MQ8"]},
+      {"semester":4,"hours":612,"modules":["MQ9","MQ10","MQ11","MQ12","MQ13"]},
+      {"semester":5,"hours":612,"type":"stage_pratique","modules":[]}
+    ]
+  },
+  "professional_activities": {
+    "tasks": [
+      {"task_id":"T1","title_fr":"Préparer le matériel et la matière d’œuvre nécessaires aux analyses des aliments","operations":["Préparer le matériel nécessaire des analyses","Préparer la matière d’œuvre des analyses","Gérer les stocks des consommables au laboratoire"]},
+      {"task_id":"T2","title_fr":"Effectuer l’échantillonnage","operations":["Effectuer des prélèvements","Conserver et transférer les échantillons"]},
+      {"task_id":"T3","title_fr":"Effectuer les évaluations sensorielles","operations":["Effectuer les contrôles sensoriels","Effectuer les tests sensoriels"]},
+      {"task_id":"T4","title_fr":"Effectuer les analyses microbiologiques des produits alimentaires","operations":["Préparer le poste de travail","Préparer les suspensions mères et les dilutions décimales","Effectuer l’ensemencement, l’incubation et le dénombrement des microorganismes","Effectuer l’identification des microorganismes","Effectuer l’examen microscopique à l’état frais et après coloration des grammes","Etablir un compte rendu"]},
+      {"task_id":"T5","title_fr":"Effectuer les analyses physico-chimiques des produits alimentaires","operations":["Préparer le poste de travail","Préparer la prise d’essai","Effectuer les dosages des paramètres analytiques physico-chimiques des aliments","Etablir un compte rendu"]}
+    ]
+  },
+  "certification": {
+    "professional_competencies": [
+      {"code":"CP1","title_fr":"Préparer le matériel et la matière d’œuvre"},
+      {"code":"CP2","title_fr":"Effectuer l’échantillonnage"},
+      {"code":"CP3","title_fr":"Effectuer les évaluations sensorielles dans les IAA"},
+      {"code":"CP4","title_fr":"Utiliser les techniques de base des analyses microbiologiques des produits alimentaires"},
+      {"code":"CP5","title_fr":"Effectuer les analyses microbiologiques des produits alimentaires"},
+      {"code":"CP6","title_fr":"Utiliser les techniques de base des analyses physico-chimiques"},
+      {"code":"CP7","title_fr":"Effectuer les analyses physico-chimiques des aliments"}
+    ],
+    "complementary_competencies": [
+      {"source_code":"Cc1","normalized_code":"CC1","title_fr":"Appliquer les normes et les outils de contrôle de qualité dans les IAA"},
+      {"source_code":"Cc2","normalized_code":"CC2","title_fr":"Communiquer en milieu de travail"},
+      {"source_code":"Cc3","normalized_code":"CC3","title_fr":"Promouvoir l'hygiène, la santé et la sécurité au milieu de travail"},
+      {"source_code":"Cc4","normalized_code":"CC4","title_fr":"Utiliser un micro-ordinateur et ses logiciels d'application"},
+      {"source_code":"Cc5","normalized_code":"CC5","title_fr":"Utiliser les notions fondamentales des analyses statistiques des données"},
+      {"source_code":"Cc6","normalized_code":"CC6","title_fr":"Utiliser les notions fondamentales de chimie"},
+      {"source_code":"Cc7","normalized_code":"CC7","title_fr":"Utiliser les bases fondamentales en optique et en électricité"},
+      {"source_code":"Cc8","normalized_code":"CC8","title_fr":"Utiliser les notions fondamentales de microbiologie générale"},
+      {"source_code":"Cc9","normalized_code":"CC9","title_fr":"Identifier les caractéristiques des microorganismes dans les aliments"},
+      {"source_code":"CP10","normalized_code":"CC10","title_fr":"Identifier les changements physico-chimiques des constituants alimentaires","normalization_note":"Source body labels this item CP10; complementary-competency table and sequence indicate complementary role. Source label preserved in source_code."}
+    ]
+  },
+  "observed_anomalies": [
+    {"id":"PE-MC1-CODE-CONFLICT","document":"PE","description":"The summary module table identifies “Normes et Outils de Contrôle de Qualité…” as MC1, while its module presentation page prints “Code du module : MC2”.","normalization":"Normalized curriculum uses MC1 from the summary/semester tables; source Markdown/JSON retain the printed MC2."},
+    {"id":"PE-MC4-HOURS-CONFLICT","document":"PE","description":"The summary and semester tables assign MC4 Informatique 80h, while the module presentation page states “Durée : 120 heurs”.","normalization":"Normalized curriculum uses 80h from the summary and semester allocation; source text remains unchanged."},
+    {"id":"RC-CC10-LABEL-CONFLICT","document":"RC","description":"The biochimie-related complementary competency is labeled “CP10” in its presentation page although the complementary-competency summary and sequence indicate a complementary competency.","normalization":"source_code remains CP10; normalized_code is CC10 with an explicit note."},
+    {"id":"RC-CROSSWALK-NUMBERING-CONFLICT","document":"RC","description":"The final competency crosswalk contains columns CP1 through CP11 and rows Cc1 through Cc11, inconsistent with the competency presentation sections (CP1-CP7 and complementary sequence through the biochimie item).","normalization":"No inferred crosswalk is generated; the faithful source remains in RC Markdown/JSON."},
+    {"id":"RAP-TASK-ORDER-CONFLICT","document":"RAP","description":"The task-operation summary table lists sampling before material preparation, while the detailed task descriptions number material preparation as T1 and sampling as T2.","normalization":"Normalized tasks follow the explicit T1/T2 labels in the detailed task descriptions."}
+  ]
+}
