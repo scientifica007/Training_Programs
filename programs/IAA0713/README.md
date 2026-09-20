@@ -4,17 +4,39 @@
 
 ## الملفات
 
-| الوثيقة | Markdown | JSON آلي |
-|---|---|---|
-| البطاقة الوصفية | [IAA0713-FICHEPAR.md](IAA0713-FICHEPAR.md) | [IAA0713-FICHEPAR.json](IAA0713-FICHEPAR.json) |
-| Référentiel des Activités Professionnelles | [IAA0713-RAP.md](IAA0713-RAP.md) | [IAA0713-RAP.json](IAA0713-RAP.json) |
-| Référentiel de Certification | [IAA0713-RC.md](IAA0713-RC.md) | [IAA0713-RC.json](IAA0713-RC.json) |
-| Programme d’études | [IAA0713-PE.md](IAA0713-PE.md) | [IAA0713-PE.json](IAA0713-PE.json) |
+| الوثيقة | Markdown دلالي | JSON آلي | النقل الخام المحافظ |
+|---|---|---|---|
+| البطاقة الوصفية | [IAA0713-FICHEPAR.md](IAA0713-FICHEPAR.md) | [IAA0713-FICHEPAR.json](IAA0713-FICHEPAR.json) | — |
+| Référentiel des Activités Professionnelles | [IAA0713-RAP.md](IAA0713-RAP.md) | [IAA0713-RAP.json](IAA0713-RAP.json) | [transcription](transcriptions/IAA0713-RAP.transcription.md) |
+| Référentiel de Certification | [IAA0713-RC.md](IAA0713-RC.md) | [IAA0713-RC.json](IAA0713-RC.json) | [transcription](transcriptions/IAA0713-RC.transcription.md) |
+| Programme d’études | [IAA0713-PE.md](IAA0713-PE.md) | [IAA0713-PE.json](IAA0713-PE.json) | [transcription](transcriptions/IAA0713-PE.transcription.md) |
 
-## السجل المطبّع للقراءة الآلية
+## طبقات التمثيل
 
-- [IAA0713-program.normalized.json](IAA0713-program.normalized.json): بيانات البرنامج والوحدات والساعات والمهام والكفاءات في بنية واحدة.
-- [manifest.json](manifest.json): provenance، روابط المصادر، SHA-256، وعدد الصفحات وسياسة التحويل.
+### 1. Markdown الدلالي
+
+الملفات الرئيسية `.md` مهيأة للقراءة البشرية والاستغلال التقني:
+
+- الجداول الواضحة حُولت إلى Markdown Tables.
+- بطاقات الوحدات والكفاءات حُولت إلى عناوين وقوائم.
+- حدود صفحات المصدر موثقة في العناوين.
+- الجداول المركبة حُولت بصورة محافظة، سطرًا بسطر داخل الأعمدة، دون دمج خلايا يحتاج إلى تفسير.
+
+### 2. النقل الخام المحافظ
+
+المجلد [transcriptions/](transcriptions/) يحتفظ بالنقل النصي الناتج من PDF مع المحاذاة الأصلية قدر الإمكان. هذه الطبقة هي مرجع التدقيق عند وجود شك في:
+
+- حدود خلية.
+- التفاف سطر.
+- استمرار جدول بين صفحتين.
+- أي حالة قد يتطلب تحويلها الدلالي افتراضًا إضافيًا.
+
+### 3. JSON
+
+ملفات JSON تحفظ النص والـprovenance بطريقة قابلة للقراءة الآلية، بينما:
+
+- [IAA0713-program.normalized.json](IAA0713-program.normalized.json) يقدم سجلًا موحدًا للبرنامج والوحدات والساعات والمهام والكفاءات.
+- [manifest.json](manifest.json) يحفظ روابط المصادر، SHA-256، وعدد الصفحات وسياسة التحويل.
 
 ## جودة البيانات والتناقضات
 
@@ -22,7 +44,11 @@
 
 ## قاعدة الأمان الدلالي
 
-النصوص المنقولة من المصدر **لا تُصحح بصمت**. عندما يظهر تعارض داخل الوثيقة نفسها، يبقى النص الأصلي كما هو في ملفات Markdown/JSON. أي تطبيع لأغراض القراءة الآلية يجب أن يكون موثقًا، ويظل [DISCREPANCIES.md](DISCREPANCIES.md) سجل المراجعة البشري للتناقضات.
+النصوص المنقولة من المصدر **لا تُصحح بصمت**.
+
+عندما يكون تحويل بنية PDF إلى Markdown واضحًا، تُستخدم بنية Markdown المناسبة. وعندما يكون دمج الخلايا أو تفسير العلاقة بينها غير محسوم، يُحافظ على النص بصورة محافظة ويظل النقل الخام مرجع التدقيق.
+
+أي تطبيع لأغراض القراءة الآلية لا يعتبر تصحيحًا رسميًا للمصدر، ويجب أن يكون موثقًا في سجل التناقضات أو في حقول التطبيع.
 
 ## المصادر
 
