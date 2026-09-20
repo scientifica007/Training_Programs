@@ -206,38 +206,38 @@ Diplôme : BTS
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| Préparer le matériel nécessaire des | -Verreries de laboratoire          -Ne | ttoyage et stérilisation corrects |
-| analyses | -Matériels et outils de            des | verreries et des récipients |
-|  | stérilisation (Four pasteur,       -Re | spect des normes |
-|  | Autoclave, Bec bunsen, …..) -      rég | lementaires et des barèmes |
-|  | - Ecouvillons, lavettes, coton,    de | stérilisation. |
-|  | papier aluminium                    -C | hoix adéquat de la méthode de |
-|  | - Solution de désinfection         sté | rilisation. |
+| Préparer le matériel nécessaire des | -Verreries de laboratoire | -Nettoyage et stérilisation corrects |
+| analyses | -Matériels et outils de | des verreries et des récipients |
+|  | stérilisation (Four pasteur, | -Respect des normes |
+|  | Autoclave, Bec bunsen, …..) - | réglementaires et des barèmes |
+|  | - Ecouvillons, lavettes, coton, | de stérilisation. |
+|  | papier aluminium | -Choix adéquat de la méthode de |
+|  | - Solution de désinfection | stérilisation. |
 |  | (Eau chlorée, éthanol à 90 %) |  |
 |  | - Eau distillée |  |
 |  | -Documents techniques |  |
 |  | (Méthodes de stérilisation, |  |
 |  | normes de stérilisation, |  |
 |  | réglementation ...) |  |
-|  | -Ca | librage correct des |
-|  | -Appareils d’analyse physico-       ap | pareils |
-|  | chimique (Broyeurs,                -Et | alonnage correct des appareils |
-|  | Homogénéisateur, Balance           -Ré | glage correct des appareils |
-|  | analytique, conductimètre,         -Re | spect des règles d’hygiène et |
-|  | densimètre ……..)                   de | sécurité |
+|  |  | -Calibrage correct des |
+|  | -Appareils d’analyse physico- | appareils |
+|  | chimique (Broyeurs, | -Etalonnage correct des appareils |
+|  | Homogénéisateur, Balance | -Réglage correct des appareils |
+|  | analytique, conductimètre, | -Respect des règles d’hygiène et |
+|  | densimètre ……..) | de sécurité |
 |  | -Outillages et instruments |  |
 |  |  |  |
-| Préparer la matière d’œuvre des | -Matériels et matière de           -Re | spect de la technique de |
-| analyses | protection (hotte, gants,          pré | paration |
-|  | charlottes, blouses, masque        -Pr | éparation correcte des réactifs |
-|  | ….)                                -Pr | éparation correcte des milieux |
-|  | -Documents techniques              de | culture solide et liquide |
-|  | -Produits ou solutions de          -St | érilisation adéquate des milieux |
-|  | titrage, indicateurs colorés,      de | culture solide et liquide |
-|  | l’eau distillée……                  -Co | nservation correcte des |
-|  | -Matière d’œuvre (Milieux de      mil | ieux de cultures |
-|  | culture, l’eau distillée……)        - R | espect des règles d’hygiène et |
-|  | -Matériels de préparation          de | sécurité. |
+| Préparer la matière d’œuvre des | -Matériels et matière de | -Respect de la technique de |
+| analyses | protection (hotte, gants, | préparation |
+|  | charlottes, blouses, masque | -Préparation correcte des réactifs |
+|  | ….) | -Préparation correcte des milieux |
+|  | -Documents techniques | de culture solide et liquide |
+|  | -Produits ou solutions de | -Stérilisation adéquate des milieux |
+|  | titrage, indicateurs colorés, | de culture solide et liquide |
+|  | l’eau distillée…… | -Conservation correcte des |
+|  | -Matière d’œuvre (Milieux de | milieux de cultures |
+|  | culture, l’eau distillée……) | - Respect des règles d’hygiène et |
+|  | -Matériels de préparation | de sécurité. |
 |  | (Verreries, spatules, flacons, |  |
 |  | récipients, bec bunsen, balance |  |
 |  | analytique, autoclave …..) |  |
@@ -245,213 +245,225 @@ Diplôme : BTS
 |  | opératoire, normes de |  |
 |  | stérilisation, réglementation…) |  |
 
-> الجدول يحافظ على توزيع النص بحسب الأعمدة على مستوى أسطر المصدر. راجع [النقل الخام](transcriptions/IAA0713-RAP.transcription.md#page-7) عند الحاجة إلى التحقق من التفاف السطور.
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 7](transcriptions/IAA0713-RAP.transcription.md#page-7).
 
-## Page 8 — T1 (suite)
+## Page 8 — T1 — suite
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-|  | - Prévi | sion correcte des besoins |
-| Gérer les stockes des                       F | iches et registres             -Expres | sion correcte des besoins |
-| consommables au laboratoire                 M | atérielle et moyens de         -Respec | t du plan |
-| s | écurité                        d’appro | visionnement |
-| E | quipements de stockage         -Vérifi | cation correcte de |
-| A | rmoires de stockage            conform | ité de bon de commande |
-| M | atériels et moyens de sécurité et de b | on de livraison |
-|  | -Vérifi | cation correcte de la qualité |
-|  | physiqu | e et la date de péremptions |
-|  | des pro | duits livrés |
-|  | -Respec | t des conditions de |
-|  | stockag | e |
-|  | -Stocka | ge parfait dans les zones et |
-|  | l’empla | cement appropriés |
+|  |  | - Prévision correcte des besoins |
+| Gérer les stockes des | Fiches et registres | -Expression correcte des besoins |
+| consommables au laboratoire | Matérielle et moyens de | -Respect du plan |
+|  | sécurité | d’approvisionnement |
+|  | Equipements de stockage | -Vérification correcte de |
+|  | Armoires de stockage | conformité de bon de commande |
+|  | Matériels et moyens de sécurité | et de bon de livraison |
+|  |  | -Vérification correcte de la qualité |
+|  |  | physique et la date de péremptions |
+|  |  | des produits livrés |
+|  |  | -Respect des conditions de |
+|  |  | stockage |
+|  |  | -Stockage parfait dans les zones et |
+|  |  | l’emplacement appropriés |
+
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 8](transcriptions/IAA0713-RAP.transcription.md#page-8).
 
 ## Page 9 — T2- Effectuer l’échantillonnage
 
-| Opération | Conditions de réalisation | Critères de performance |
+| Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| Effectuer des prélèvements              - | Fiches techniques (Tables de      - ide | ntification correcte des points de |
-| p | rélèvements……)                     prélè | vements |
-|  | -Choi | x adéquat du plan |
-| - | Récipients et instruments de      d’éch | antillonnage |
-| p | rélèvements                        - Cho | ix adéquat de matériels de |
-|  | prélè | vements |
-|  | - Res | pect de la méthode de |
-|  | prélè | vements |
-|  | - Res | pect des conditions de |
-|  | prélè | vements |
+| Effectuer des prélèvements | - Fiches techniques (Tables de | - identification correcte des points de |
+|  | prélèvements……) | prélèvements |
+|  |  | -Choix adéquat du plan |
+|  | - Récipients et instruments de | d’échantillonnage |
+|  | prélèvements | - Choix adéquat de matériels de |
+|  |  | prélèvements |
+|  |  | - Respect de la méthode de |
+|  |  | prélèvements |
+|  |  | - Respect des conditions de |
+|  |  | prélèvements |
 |  |  |  |
-| Conserver et transférer les             - | Moyen de transfert des            -Resp | ect des conditions de |
-| échantillons                            é | chantillons                        conse | rvation des échantillons |
-|  | -Res | pect des conditions de transfert |
-|  | des é | chantillons |
+| Conserver et transférer les | - Moyen de transfert des | -Respect des conditions de |
+| échantillons | échantillons | conservation des échantillons |
+|  |  | -Respect des conditions de transfert |
+|  |  | des échantillons |
+
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 9](transcriptions/IAA0713-RAP.transcription.md#page-9).
 
 ## Page 10 — T3- Effectuer les évaluations sensorielles
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| -     Fi | ches techniques           - | Contrôle correct de l'aspect, de la |
-| Effectuer les contrôles sensoriels          -     No | rmes de fabrication | forme, la couleur, la brillance, la |
+|  | -     Fiches techniques | -   Contrôle correct de l'aspect, de la |
+| Effectuer les contrôles sensoriels | -     Normes de fabrication | forme, la couleur, la brillance, la |
 |  |  | transparence des produits |
-|  | - | Détection correcte de l’odeur et |
+|  |  | -   Détection correcte de l’odeur et |
 |  |  | son intensité |
-|  | - | Distinction correcte des trois |
+|  |  | -   Distinction correcte des trois |
 |  |  | modalités gustatives |
-|  | - | Contrôle correcte de la texture et |
+|  |  | -   Contrôle correcte de la texture et |
 |  |  | de la consistance |
-|  | - | Contrôle auditif correcte |
-|  | - | Respect des règles d’hygiène et de |
+|  |  | -   Contrôle auditif correcte |
+|  |  | -   Respect des règles d’hygiène et de |
 |  |  | sécurité |
-|  | - |  |
-| -     Ve | rres et assiettes         - | Détermination correcte du but de |
-| Effectuer les testes sensorielles                 je | tables | l'évaluation |
-|  | - | Choix correct de la méthode |
-| -      S | alle de réception des |  |
+|  |  | - |
+|  | -     Verres et assiettes | -   Détermination correcte du but de |
+| Effectuer les testes sensorielles | jetables | l'évaluation |
+|  |  | -   Choix correct de la méthode |
+|  | -      Salle de réception des |  |
 |  |  | d’évaluation |
-| pr | oduits |  |
-|  | - | Détermination correcte du nombre |
-| -     Sa | lle de préparation | et de la nature des échantillons |
-| -     Sa | lle d’évaluation,         - | Choix adéquat des sujets |
-|  | - | Animation performante |
-| -     Sa | lle de réunion pouvant |  |
-|  | - | Respect des conditions de |
-| ég | alement servir de salle |  |
+|  | produits |  |
+|  |  | -   Détermination correcte du nombre |
+|  | -     Salle de préparation | et de la nature des échantillons |
+|  | -     Salle d’évaluation, | -   Choix adéquat des sujets |
+|  |  | -   Animation performante |
+|  | -     Salle de réunion pouvant |  |
+|  |  | -   Respect des conditions de |
+|  | également servir de salle |  |
 |  |  | présentation |
-| d’ | attente pour les sujets |  |
-|  | - | Rédaction correcte du rapport |
-| -     Sa | lle de nettoyage | d’évaluation |
-| -     Lo | cal de dépouillement      - | Respect des règles d’hygiène et de |
-| éq | uipé d’un ordinateur. | sécurité |
+|  | d’attente pour les sujets |  |
+|  |  | -   Rédaction correcte du rapport |
+|  | -     Salle de nettoyage | d’évaluation |
+|  | -     Local de dépouillement | -   Respect des règles d’hygiène et de |
+|  | équipé d’un ordinateur. | sécurité |
 |  |  |  |
-| -     Fi | ches techniques |  |
+|  | -     Fiches techniques |  |
+
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 10](transcriptions/IAA0713-RAP.transcription.md#page-10).
 
 ## Page 11 — T4- Effectuer les analyses microbiologiques des produits alimentaires
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| Préparer le poste de travail                -Moyen | s de protection            -Dés | infection adéquate de la paillasse |
-| - L’ea | u chlorée                  -Ide | ntification correcte de la zone |
-| - lave | tte                        d’as | epsie |
-| -Milie | ux de culture              - Ut | ilisation correcte des milieux de |
-| -Bain | marie                      cult | ure |
-| -Bec b | unsen                      -Res | pect des règles d’hygiène et de |
-|  | sécu | rité |
-| -   Préparer les suspensions                - Broy | eurs                       -Hom | ogénéisation (broyage et |
-| mères et les dilutions                  - Homo | généisateur                mixa | ge) adéquat de l’échantillon |
-| décimales                               - Dilu | ant (eau distillée, eau    -Cho | ix adéquat de diluant |
-| pepton | ée, TSE …)                 -Res | pect de la technique de la |
-| - Bala | nce analytique             prép | aration de la suspension mère et |
-| -Verre | ries (tubes à essais,      des | dilutions décimales |
-| pipett | es….)                      -Ent | retien correct des appareils |
-| -Réci | pients de laboratoire      - Re | spect des règles d’hygiène et de |
-| - Bec | bunsen                     sécu | rité |
-| -Porto | irs |  |
-| -Moyen | s de protections |  |
-| -Mode | opératoire. |  |
-| Effectuer l’ensemencement,                  - Mili | eux de culture             -Res | pect de la zone d’asepsie |
-| l’incubation et le dénombrement             - Boit | es de pétrie, Tubes à      - Ch | oix adéquat des milieux de |
-| des microorganismes                         essaie | s                          cult | ure |
-| - Ans | de platine/ Pipette        -Res | pect de l’arrêté interministériel |
-| pasteu | r                          -Res | pect de la technique |
-| -Bec | bunsen                     d’en | semencement |
-| - Moye | ns de protections          -Res | pect de la durée et de la |
-| - Mode | opératoire                temp | érature d’incubation |
-| - Incu | bateur                      -Re | spect de la technique de |
-| -Arrêt | é interministériel         déno | mbrement |
-| - Comp | teur de colonie            -Dén | ombrement exact des micro- |
-|  | orga | nismes |
-|  | - Re | spect des règles d’hygiène et de |
-|  | sécu | rité |
-|  | -Int | erprétation correcte des résultats |
+| Préparer le poste de travail | -Moyens de protection | -Désinfection adéquate de la paillasse |
+|  | - L’eau chlorée | -Identification correcte de la zone |
+|  | - lavette | d’asepsie |
+|  | -Milieux de culture | - Utilisation correcte des milieux de |
+|  | -Bain marie | culture |
+|  | -Bec bunsen | -Respect des règles d’hygiène et de |
+|  |  | sécurité |
+| -   Préparer les suspensions | - Broyeurs | -Homogénéisation (broyage et |
+| mères et les dilutions | - Homogénéisateur | mixage) adéquat de l’échantillon |
+| décimales | - Diluant (eau distillée, eau | -Choix adéquat de diluant |
+|  | peptonée, TSE …) | -Respect de la technique de la |
+|  | - Balance analytique | préparation de la suspension mère et |
+|  | -Verreries (tubes à essais, | des dilutions décimales |
+|  | pipettes….) | -Entretien correct des appareils |
+|  | -Récipients de laboratoire | - Respect des règles d’hygiène et de |
+|  | - Bec bunsen | sécurité |
+|  | -Portoirs |  |
+|  | -Moyens de protections |  |
+|  | -Mode opératoire. |  |
+| Effectuer l’ensemencement, | - Milieux de culture | -Respect de la zone d’asepsie |
+| l’incubation et le dénombrement | - Boites de pétrie, Tubes à | - Choix adéquat des milieux de |
+| des microorganismes | essaies | culture |
+|  | - Ans de platine/ Pipette | -Respect de l’arrêté interministériel |
+|  | pasteur | -Respect de la technique |
+|  | -Bec bunsen | d’ensemencement |
+|  | - Moyens de protections | -Respect de la durée et de la |
+|  | - Mode opératoire | température d’incubation |
+|  | - Incubateur | -Respect de la technique de |
+|  | -Arrêté interministériel | dénombrement |
+|  | - Compteur de colonie | -Dénombrement exact des micro- |
+|  |  | organismes |
+|  |  | - Respect des règles d’hygiène et de |
+|  |  | sécurité |
+|  |  | -Interprétation correcte des résultats |
 |  |  |  |
-| Effectuer l’examen                          - Comp | teur de colonie            -Ide | ntification correcte des aspects de |
-| macroscopique des cultures                   - Règ | le graduée                 colo | nies en surface |
-| -Tube | s à essaies                - Id | entification correcte des aspects |
-| -Porto | irs                        de c | olonies en profondeur |
-| - Bec | bunsen                     - Re | spect des règles d’hygiène et de |
-| - Moye | ns de protections          sécu | rité |
-| - Mode | opératoire                -Int | erprétation correcte des résultats |
+| Effectuer l’examen | - Compteur de colonie | -Identification correcte des aspects de |
+| macroscopique des cultures | - Règle graduée | colonies en surface |
+|  | -Tubes à essaies | - Identification correcte des aspects |
+|  | -Portoirs | de colonies en profondeur |
+|  | - Bec bunsen | - Respect des règles d’hygiène et de |
+|  | - Moyens de protections | sécurité |
+|  | - Mode opératoire | -Interprétation correcte des résultats |
 
-## Page 12 — T4 (suite)
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 11](transcriptions/IAA0713-RAP.transcription.md#page-11).
+
+## Page 12 — T4 — suite
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| Effectuer l’isolement,                     -Eau ph | ysiologique               -Resp | ect de la zone d’asepsie |
-| l’enrichissement des colonies              - Anse | de platine / Pipette      -Resp | ect les techniques d’isolement |
-| pasteur | - Res | pect des règles d’hygiène et de |
-| -Milieu | x de culture (milieux     sécur | ité |
-| d’enric | hissement, |  |
-| milieux | d’isolements,….) |  |
-| -Boite | de pétri |  |
-| -Tubes | à essaies |  |
-| -Portoi | rs |  |
-| -Bain m | arie |  |
-| - Bec b | unsen |  |
-| - Incub | ateur |  |
-| - Moyen | s de protections |  |
-| - Mode | opératoire |  |
+| Effectuer l’isolement, | -Eau physiologique | -Respect de la zone d’asepsie |
+| l’enrichissement des colonies | - Anse de platine / Pipette | -Respect les techniques d’isolement |
+|  | pasteur | - Respect des règles d’hygiène et de |
+|  | -Milieux de culture (milieux | sécurité |
+|  | d’enrichissement, |  |
+|  | milieux d’isolements,….) |  |
+|  | -Boite de pétri |  |
+|  | -Tubes à essaies |  |
+|  | -Portoirs |  |
+|  | -Bain marie |  |
+|  | - Bec bunsen |  |
+|  | - Incubateur |  |
+|  | - Moyens de protections |  |
+|  | - Mode opératoire |  |
 |  |  |  |
-| Effectuer l’examen                         -L’eau | distillée                 - Pré | paration correcte des frottis |
-| microscopique à l’état frais et            -Pisset | te                        - Res | pect de la technique de |
-| après coloration de Gram                   -Bec bu | nsen                      color | ation de Gram |
-| -Pince | - Uti | lisation correcte de microscope |
-| -Lame | -Inte | rprétation correcte des résultats |
-| -Lamell | e |  |
-| -Micros | cope |  |
-| -Soluti | on de bleu de |  |
-| méthylè | ne |  |
-| -Violet | de gentiane phénique |  |
-| - Lugol | (iodo-iodure de |  |
-| potassi | um) |  |
-| - Alcoo | l à 95% (ou mélange |  |
-| alcool | absolu+ 1/5ème |  |
-| d’acéto | ne) |  |
-| - Safra | nine (ou Fuchsine |  |
-| phéniqu | ée de ziehl) |  |
-| - Huile | à immersion |  |
-| - Anse | de platine |  |
+| Effectuer l’examen | -L’eau distillée | - Préparation correcte des frottis |
+| microscopique à l’état frais et | -Pissette | - Respect de la technique de |
+| après coloration de Gram | -Bec bunsen | coloration de Gram |
+|  | -Pince | - Utilisation correcte de microscope |
+|  | -Lame | -Interprétation correcte des résultats |
+|  | -Lamelle |  |
+|  | -Microscope |  |
+|  | -Solution de bleu de |  |
+|  | méthylène |  |
+|  | -Violet de gentiane phénique |  |
+|  | - Lugol (iodo-iodure de |  |
+|  | potassium) |  |
+|  | - Alcool à 95% (ou mélange |  |
+|  | alcool absolu+ 1/5ème |  |
+|  | d’acétone) |  |
+|  | - Safranine (ou Fuchsine |  |
+|  | phéniquée de ziehl) |  |
+|  | - Huile à immersion |  |
+|  | - Anse de platine |  |
 |  |  |  |
 |  |  |  |
-| Etablir un compte rendu                    Fiches | techniques                - Int | erprétation correcte des résultats |
-| des analyses microbiologiques              Normes | -Resp | ect des normes de la |
-|  | régle | mentation nationale |
+| Etablir un compte rendu | Fiches techniques | - Interprétation correcte des résultats |
+| des analyses microbiologiques | Normes | -Respect des normes de la |
+|  |  | réglementation nationale |
+
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 12](transcriptions/IAA0713-RAP.transcription.md#page-12).
 
 ## Page 13 — T5- Effectuer les analyses physico-chimiques
 
 | Opérations | Conditions de réalisation | Critères de performance |
 |---|---|---|
-| Préparer le poste de travail              Appare | ils d’analyse physico-     -Ch | oix adéquat des appareils |
-| chimiq | ue                         -Ch | oix adéquat des outils et des |
-| Outill | ages et instruments        ins | truments |
-| Verrer | ies de laboratoire         -Ch | oix adéquat des récipients et des |
-| Produi | ts chimiques               ver | reries de laboratoire |
-| Moyens | de protections            - E | ntretien correcte des appareils |
-|  | - R | espect des règles d’hygiène et |
-|  | de | sécurité. |
-| Préparer la prise d’essai                 - Broy | eurs                       -Ch | oix adéquat de traitement |
-| - Homo | généisateur                d’h | omogénéisation (broyage, |
-| - Agit | ateur                      mix | age, agitation) |
-| - Bala | nce analytique             - D | ilution correcte |
-| - L’ea | u distillée                - E | ntretien correcte des appareils |
-| - verr | erie et recepions de       - R | espect des règles d’hygiène et |
-| labora | toire                      de | sécurité. |
+| Préparer le poste de travail | Appareils d’analyse physico- | -Choix adéquat des appareils |
+|  | chimique | -Choix adéquat des outils et des |
+|  | Outillages et instruments | instruments |
+|  | Verreries de laboratoire | -Choix adéquat des récipients et des |
+|  | Produits chimiques | verreries de laboratoire |
+|  | Moyens de protections | - Entretien correcte des appareils |
+|  |  | - Respect des règles d’hygiène et |
+|  |  | de sécurité. |
+| Préparer la prise d’essai | - Broyeurs | -Choix adéquat de traitement |
+|  | - Homogénéisateur | d’homogénéisation (broyage, |
+|  | - Agitateur | mixage, agitation) |
+|  | - Balance analytique | - Dilution correcte |
+|  | - L’eau distillée | - Entretien correcte des appareils |
+|  | - verrerie et recepions de | - Respect des règles d’hygiène et |
+|  | laboratoire | de sécurité. |
 |  |  |  |
-| Effectuer le dosage des                   Appare | il d’analyse physico-      - C | hoix adéquat des produits |
-| paramètres analytique physico-            chimiq | ue                         chi | miques pour chaque dosage |
-| chimiques spécifiques pour                Outill | ages et instruments        phy | sico-chimique |
-| chaque aliment                            Verrer | ies de laboratoire         - R | espect du Protocole de l’arrêté |
-| Produi | ts chimiques (solutions    int | erministériel |
-| de tit | rage, indicateurs          - C | hoix adéquat de la méthode |
-| coloré | s)                         d’a | nalyse |
-| L’eau | distillée                  -Re | spect du mode opératoire |
-| Moyens | de protections            -Re | spect des règles d’hygiène et de |
-| Arrêté | interministériel          séc | urité |
-| Mode o | pératoire.                 - E | ntretien correct des appareils |
+| Effectuer le dosage des | Appareil d’analyse physico- | - Choix adéquat des produits |
+| paramètres analytique physico- | chimique | chimiques pour chaque dosage |
+| chimiques spécifiques pour | Outillages et instruments | physico-chimique |
+| chaque aliment | Verreries de laboratoire | - Respect du Protocole de l’arrêté |
+|  | Produits chimiques (solutions | interministériel |
+|  | de titrage, indicateurs | - Choix adéquat de la méthode |
+|  | colorés) | d’analyse |
+|  | L’eau distillée | -Respect du mode opératoire |
+|  | Moyens de protections | -Respect des règles d’hygiène et de |
+|  | Arrêté interministériel | sécurité |
+|  | Mode opératoire. | - Entretien correct des appareils |
 |  |  |  |
-| Etablir un compte rendu                   Fiches | techniques                - I | nterprétation correcte des |
-| des analyses physico- chimiques           Normes | rés | ultats |
-|  | -Re | spect des normes de la |
-|  | lég | islation |
+| Etablir un compte rendu | Fiches techniques | - Interprétation correcte des |
+| des analyses physico- chimiques | Normes | résultats |
+|  |  | -Respect des normes de la |
+|  |  | législation |
+
+> تم الحفاظ على النص سطرًا بسطر داخل أعمدة الجدول. عند الشك في التفاف سطر أو حدود خلية، راجع [النقل الخام للصفحة 13](transcriptions/IAA0713-RAP.transcription.md#page-13).
 
 ## Page 14 — Analyse des risques professionnels
 
@@ -498,116 +510,116 @@ Diplôme : BTS
 
 | Matériel | Appareillage | Outillage et instruments |
 |---|---|---|
-| -Four pasteur                          -Apparei | l de type Stomacker       -M | anuel d'utilisation de |
-| -Four à moufle                         -Alviogr | aphe CHOPIN               l' | appareil |
-| -Micro-ordinateur.                     -Apparei | l Kjeldhal                -V | errerie de laboratoire |
-| -Hotte                                 -Broyeur | (mixers)                 (b | oites de pétrie, tubes à |
-| -Autoclave                             -Homogéi | nisateur à billes de      es | sais, verre de montre…) |
-| -Incubateur                            verre ou | d’acier                  -R | écipient (flacon à bouchon |
-| - congélateur                          -Balance | analytique               mé | tallique, tasse en inox …) |
-| - Réfrigérateur                        - Centri | fugeuses                  -R | écipient et instruments de |
-| -Chromat | ographe                   pr | élèvement (flacons, |
-| -Colorim | ètre                      so | nde,…) |
-| -Farinit | ome de POHL               -B | ec bunsen |
-| -Microsc | ope optique               -T | ri-pied/ Grille métallique |
-| -Nilema | – litre                   - | Barreau magnétique |
-| -Rhéofer | mentographe               -S | patule, entonnoir, poires et |
-| -Réfract | omètre                    pi | pettes, lampe à gaz |
-| -Photomè | tre                       - | Flacon opaque en verre |
-| -Polarim | ètre                      - | portoirs |
-| -PH mètr | e                         -V | erre à pied |
-| -Plaque | chauffante                - | Mortier |
-| -Soxhlet | -S | able ou billes de verre (0,5 |
-| -Spectro | photomètre                de | diamètre) |
-| -Agitate | ur magnétique             -B | utyromètre |
-| chauffan | t                         -D | ensimètre |
-| -Agitate | ur à mouvement            -D | essiccateur |
-| orbitale |  |  |
+| -Four pasteur | -Appareil de type Stomacker | -Manuel d'utilisation de |
+| -Four à moufle | -Alviographe CHOPIN | l'appareil |
+| -Micro-ordinateur. | -Appareil Kjeldhal | -Verrerie de laboratoire |
+| -Hotte | -Broyeur (mixers) | (boites de pétrie, tubes à |
+| -Autoclave | -Homogéinisateur à billes de | essais, verre de montre…) |
+| -Incubateur | verre ou d’acier | -Récipient (flacon à bouchon |
+| - congélateur | -Balance analytique | métallique, tasse en inox …) |
+| - Réfrigérateur | - Centrifugeuses | -Récipient et instruments de |
+|  | -Chromatographe | prélèvement (flacons, |
+|  | -Colorimètre | sonde,…) |
+|  | -Farinitome de POHL | -Bec bunsen |
+|  | -Microscope optique | -Tri-pied/ Grille métallique |
+|  | -Nilema – litre | - Barreau magnétique |
+|  | -Rhéofermentographe | -Spatule, entonnoir, poires et |
+|  | -Réfractomètre | pipettes, lampe à gaz |
+|  | -Photomètre | - Flacon opaque en verre |
+|  | -Polarimètre | - portoirs |
+|  | -PH mètre | -Verre à pied |
+|  | -Plaque chauffante | - Mortier |
+|  | -Soxhlet | -Sable ou billes de verre (0,5 |
+|  | -Spectrophotomètre | de diamètre) |
+|  | -Agitateur magnétique | -Butyromètre |
+|  | chauffant | -Densimètre |
+|  | -Agitateur à mouvement | -Dessiccateur |
+|  | orbitale |  |
 
 ## Pages 16–17 — Connaissances complémentaires
 
 | Domaines, Disciplines. | Limite des connaissances. |
 |---|---|
-| -   Chimie                                            - Notions | de base de chimie |
-| - Générali | té sur les solutions chimiques |
-| (phases de | s solutions, solvant et soluté, |
-| expression | s des concentrations) |
+| -   Chimie | - Notions de base de chimie |
+|  | - Généralité sur les solutions chimiques |
+|  | (phases des solutions, solvant et soluté, |
+|  | expressions des concentrations) |
 |  |  |
 |  |  |
 |  |  |
-| -Grandeur | physique |
-| -   Physique                                           (unités d | e mesure utilisées en analyses |
-| biochimiqu | e) |
-| -Optique |  |
-| Caractéri | stiques de la lumière (absorption |
-| et dispers | ion) |
+|  | -Grandeur physique |
+| -   Physique | (unités de mesure utilisées en analyses |
+|  | biochimique) |
+|  | -Optique |
+|  | Caractéristiques de la lumière (absorption |
+|  | et dispersion) |
 |  |  |
-| -Notions d | 'électricité |
-|  |  |
-|  |  |
-| Exploitati | on de l’ordinateur : |
-| -   Informatique                                      *Les systè | mes d'exploitation<Windows> |
-| *Traitemen | t de texte Word-Excel |
-| *Gestion d | e base de données |
-| *utiliser | les logiciels des appareilles |
+|  | -Notions d'électricité |
 |  |  |
 |  |  |
-| -   Hygiène et sécurité                               - Notions | d’hygiène et de sécurité relatives |
-| aux biens | et aux personnes; |
-| - Notions | d’hygiène et de sécurité relatives à |
-| l’environn | ement. |
+|  | Exploitation de l’ordinateur : |
+| -   Informatique | *Les systèmes d'exploitation<Windows> |
+|  | *Traitement de texte Word-Excel |
+|  | *Gestion de base de données |
+|  | *utiliser les logiciels des appareilles |
 |  |  |
 |  |  |
-| - Le monde | des micro-organismes |
-| -   Microbiologie générale                            - Les bact | éries (morphologie, association, |
-| nutrition | et croissance bactérienne) |
-| -Les champ | ignons (levures et moisissures) |
-| -Les virus |  |
+| -   Hygiène et sécurité | - Notions d’hygiène et de sécurité relatives |
+|  | aux biens et aux personnes; |
+|  | - Notions d’hygiène et de sécurité relatives à |
+|  | l’environnement. |
 |  |  |
-| -   Microbiologie alimentaire                         -Origine e | t rôle des microorganismes des |
-| aliments |  |
-| -Condition | s de développement des |
-| microorgan | ismes dans les aliments |
-| -Indicateu | rs de contamination |
-| -Intoxicat | ion et toxi-infection alimentaire |
+|  |  |
+|  | - Le monde des micro-organismes |
+| -   Microbiologie générale | - Les bactéries (morphologie, association, |
+|  | nutrition et croissance bactérienne) |
+|  | -Les champignons (levures et moisissures) |
+|  | -Les virus |
+|  |  |
+| -   Microbiologie alimentaire | -Origine et rôle des microorganismes des |
+|  | aliments |
+|  | -Conditions de développement des |
+|  | microorganismes dans les aliments |
+|  | -Indicateurs de contamination |
+|  | -Intoxication et toxi-infection alimentaire |
 
 ### Suite — Page 17
 
 | Domaines, Disciplines. | Limite des connaissances. |
 |---|---|
-| -   Biochimie alimentaire                             - les cons | tituants chimiques des aliments |
-| *Protéines | : structures et propriétés |
-| *Glucides | : structures et propriétés |
-| *Lipides : | structures et propriétés |
-| *Acides nu | cléiques et biosynthèses |
-| protéiques |  |
+| -   Biochimie alimentaire | - les constituants chimiques des aliments |
+|  | *Protéines : structures et propriétés |
+|  | *Glucides : structures et propriétés |
+|  | *Lipides : structures et propriétés |
+|  | *Acides nucléiques et biosynthèses |
+|  | protéiques |
 |  |  |
-| -Rôle de l | ’eau dans les aliments |
-| -Réactions | d'altération chimique des aliments |
-|  |  |
-|  |  |
-|  |  |
-| - Notion s | ur la qualité des produits |
-| -   Sécurité alimentaire                              alimentair | es |
-| - Les orga | nisations internationales de la |
-| sécurité a | limentaire |
-| -La réglem | entation et de la normalisation des |
-| produits a | limentaires |
-|  |  |
-|  |  |
-| -   Technique d’expression                            -Communica | tion et expression (orale et |
-| écrite) |  |
+|  | -Rôle de l’eau dans les aliments |
+|  | -Réactions d'altération chimique des aliments |
 |  |  |
 |  |  |
 |  |  |
-| - Statistiques                                        Notions de | base de statistique |
-| -Façons d’ | exprimer la précision et |
-| l’exactitu | de (Valeur moyenne, Somme Ecar- |
-| type, Vari | ance, Précision relative, Erreur |
-| absolue et | erreur relative) |
-| -Test hypo | thèse |
-| -Test Stud | ent |
-| -Les types | d’erreurs dans les données |
-| expériment | ales |
+|  | - Notion sur la qualité des produits |
+| -   Sécurité alimentaire | alimentaires |
+|  | - Les organisations internationales de la |
+|  | sécurité alimentaire |
+|  | -La réglementation et de la normalisation des |
+|  | produits alimentaires |
+|  |  |
+|  |  |
+| -   Technique d’expression | -Communication et expression (orale et |
+|  | écrite) |
+|  |  |
+|  |  |
+|  |  |
+| - Statistiques | Notions de base de statistique |
+|  | -Façons d’exprimer la précision et |
+|  | l’exactitude (Valeur moyenne, Somme Ecar- |
+|  | type, Variance, Précision relative, Erreur |
+|  | absolue et erreur relative) |
+|  | -Test hypothèse |
+|  | -Test Student |
+|  | -Les types d’erreurs dans les données |
+|  | expérimentales |
 
-> بالنسبة إلى الجداول المركبة، تم تحويل المحاذاة الأفقية إلى أعمدة Markdown مع المحافظة على كل سطر مصدر. النقل الخام يبقى المرجع عند وجود أي شك في حدود خلية أو استمرار نص بين الصفحات.
+> في الجداول المركبة، استُخدمت حدود الأعمدة الظاهرة في النص المستخرج من PDF. لم تُدمج الخلايا أو تُعاد صياغتها دلاليًا عندما كان ذلك قد يتطلب افتراضًا؛ النقل الخام يبقى طبقة التدقيق المرجعية.
